@@ -1,4 +1,5 @@
-# The art ships in the repo as art.jpg; the program only copies it to the output.
+# The art ships in the repo as art.jpg (round 2: a fisherman reeling in the sun,
+# ukiyo-e style); the program only copies it to the output.
 import os
 import shutil
 
